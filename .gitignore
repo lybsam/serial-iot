@@ -1,0 +1,7 @@
+*.iml
+.gradle
+build
+gradle
+.idea
+local.properties
+/src/main/jni
